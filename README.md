@@ -1,3 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=650&height=70&lines=Integrated+M.Sc.+Data+Science+Student+at+CIT)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=650&height=70&lines=Full+Stack+Developer+%7C+Interned+%40+Aveon+Infotech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=650&height=70&lines=Full+Stack+Developer+%7C+Interned+%40+Aveon+Infotech+Pvt+Ltd)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=650&height=70&lines=AWS+%26+Power+BI+Certified+Professional)](https://git.io/typing-svg)
