@@ -5,11 +5,6 @@
 
 # Hi there! I'm Tharun Murugesan 👋
 
-<p align="center">
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Integrated+M.Sc.+Data+Science+@+CIT;Full+Stack+Developer;ML+%26+Quantum+Computing+Enthusiast;AWS+%26+Power+BI+Certified" alt="Typing SVG" />
-  </a>
-</p>
 
 > [!TIP]
 > 🎓 **Academic Focus:** Currently pursuing an Integrated Master of Data Science at Coimbatore Institute of Technology (Expected 2027).
@@ -31,7 +26,6 @@
   <kbd>React</kbd>
   <kbd>Next.js</kbd>
   <kbd>FastAPI</kbd>
-  <kbd>.NET</kbd>
   <kbd>Bootstrap</kbd>
 </p>
 <p>
@@ -44,16 +38,6 @@
 ---
 
 ### 🚀 Featured Projects
-
-<details>
-<summary><strong>🤖 Automated Resume Ranking System</strong></summary>
-<br>
-Built an AI-driven pipeline to parse and rank resumes against job descriptions.
-<ul>
-  <li><strong>Tech:</strong> DistilBERT, PyTorch, Streamlit.</li>
-  <li><strong>Impact:</strong> Automated the screening process, applying advanced NLP and LLM implementation techniques to improve candidate filtering accuracy.</li>
-</ul>
-</details>
 
 <details>
 <summary><strong>📊 Personal Job Tracker (ATS)</strong></summary>
