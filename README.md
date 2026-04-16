@@ -24,12 +24,13 @@
 </p>
 <p>
   <kbd>React</kbd>
-  <kbd>Next.js</kbd>
-  <kbd>FastAPI</kbd>
   <kbd>Bootstrap</kbd>
 </p>
 <p>
-  <kbd>PyTorch</kbd>
+  <kbd>NumPy</kbd>
+  <kbd>Pandas</kbd>
+  <kbd>Seaborn</kbd>
+  <kbd>Matplotlib</kbd>
   <kbd>Scikit-learn</kbd>
   <kbd>Streamlit</kbd>
   <kbd>Power BI</kbd>
